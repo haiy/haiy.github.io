@@ -1,7 +1,6 @@
 ---
 title: sed
 layout: post
-permlink: sed
 ---
 
 <title>SED单行脚本快速参考</title>
