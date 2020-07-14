@@ -1,7 +1,6 @@
 ---
 title: tmux
 layout: post
-permlink: /tmux
 ---
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
