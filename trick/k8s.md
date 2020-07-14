@@ -1,7 +1,6 @@
 ---
 titile: k8s
 layout: post
-permlink: /k8s
 ---
 
 [edit k8s](https://github.com/haiy/haiy.github.io/edit/master/k8s.md)

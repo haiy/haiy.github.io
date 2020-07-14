@@ -1,7 +1,6 @@
 ---
 title: vim
 layout: post
-permlink: /vim
 ---
 
 <body>
