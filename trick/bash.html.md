@@ -1,7 +1,6 @@
 ---
 titile: tricks
 layout: post
-permlink: /bash
 ---
 
 
