@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # [haihome](https://haihome.top)
 - [law](https://haihome.top/law)
