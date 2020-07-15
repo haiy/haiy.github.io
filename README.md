@@ -1,4 +1,3 @@
-
 # [haihome](https://haihome.top)
 - [law](https://haihome.top/law)
 - [book](https://haihome.top/book)
